@@ -43,11 +43,11 @@ Using the Excel workbook in your .zip file, modify and analyze the sample-projec
 
 * Create a stacked-column pivot chart that can be filtered by country and parent category based on the table that you created.
 
-* The dates in the deadline and launched_at columns use Unix timestamps. Fortunately for us, https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html can be used to convert these timestamps to a normal date.
+* The dates in the deadline and launched_at columns use Unix timestamps. Fortunately for us, this formula (https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) can be used to convert these timestamps to a normal date.
 
-    * Create a new column named Date Created Conversion that will use this https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html to convert the data contained in launched_at into Excel's date format.
+    * Create a new column named Date Created Conversion that will use this this formula (https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained in launched_at into Excel's date format.
 
-    * Create a new column named Date Ended Conversion that will use this https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html to convert the data contained in deadline into Excel's date format.
+    * Create a new column named Date Ended Conversion that will use this formula (https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained in deadline into Excel's date format.
     
     ![image](https://user-images.githubusercontent.com/119692456/235330130-37bf233f-897a-470e-ab4f-a07960e6ac5a.png)
     
