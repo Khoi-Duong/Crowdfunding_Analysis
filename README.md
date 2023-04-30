@@ -15,7 +15,7 @@ Download the following files to help you get started:
 
 https://static.bc-edx.com/data/dl-1-2/m1/lms/starter/Starter_Code.zip
 
-### Instructions
+# Instructions
 ![image](https://user-images.githubusercontent.com/119692456/235329998-f4230f81-583e-4f1a-9cd5-5ec5d1c4f659.png)
 
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
